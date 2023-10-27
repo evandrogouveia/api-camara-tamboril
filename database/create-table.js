@@ -4,9 +4,9 @@ const pool = mysql.createPool({
     multipleStatements: true,
     host: '185.169.99.137',
     port: '3306',
-    user: 'ce180037_camara-nova-russas',
-    password: 'GY@%Q5goTs27',
-    database: 'ce180037_camara-nova-russas',
+    user: 'ce180037_camara-tamboril',
+    password: 'v&zsSV05uu*x',
+    database: 'ce180037_camara-tamboril',
     waitForConnections: true,
     connectionLimit: 10,
     maxIdle: 10, // max idle connections, the default value is the same as `connectionLimit`
